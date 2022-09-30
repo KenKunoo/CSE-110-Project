@@ -1,2 +1,2 @@
 # CSE-110-Project
-Java is the first programming language I learned.
+Java is my first langauge I learned.
