@@ -3,7 +3,7 @@
 **Hi, my name is Kenny and I am a Junior studying Computer Science at UCSD.**
 *Despite my ambition for Computers, I am often not fond of technology and will avoid it during leisure.*
 *Technology empowers our future but can also devastate us, so I often refrain from being reliant on technology.*
-*During my free time, I like to surf, hike, and cook! Here are some pictures*
+*During my free time, I like to surf, hike, and cook! Here are some pictures!*
 [Photos](#gallery)
 
 **My entrance to the coding world was with this line**
@@ -36,9 +36,9 @@ System.out.println("Hello World");
 ![Surf](pictures/1.jpg)
 ![Hike](pictures/2.jpg)
 ![Food](pictures/5.jpg)
-[Car Picture](pictures/6.jpg)
-[Car Picture](pictures/3.jpg)
-[Car Picture](pictures/4.jpg)
+[Cars](pictures/6.jpg)
+[Cars](pictures/3.jpg)
+[Cars](pictures/4.jpg)
 
 **Here is my social media if you want to contact me**
 [Instagram](https://www.instagram.com/kennyy.kool/?hl=en)
